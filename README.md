@@ -1,8 +1,8 @@
 # DailyUI
 
-Welcome! This is a place where I keep track of my progress for the Daily UI Design Challenge. You can find more about the challenge [here](https://www.dailyui.co/) 
+Welcome! This is a place where I keep track of my progress for the Daily UI Design Challenge. You can find more about the challenge [here](https://www.dailyui.co/). Over the next 100 days, I'll design 100 different user interface elements for mobile and web. 
 
-On the right-hand side, you can find a log of all my entries.
+Scroll down below for an overview of my design for each prompt. For more details on my process for each design, head over to the [Wiki](https://github.com/panjenny0/DailyUI/wiki) for this repo.
 
 ### My reasoning behind doing this
 As someone who has an interest in both design and development, I wanted to further my skills in UI/UX. I also want to keep myself accountable and try to commit to doing something for 100 days. We'll see where this goes!
