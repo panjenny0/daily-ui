@@ -18,6 +18,7 @@ As an extension of this project, I may potentially do another challenge where I 
 ![002-CreditCardCheckout](https://user-images.githubusercontent.com/38872354/79080808-1ed7c180-7ce6-11ea-9ce0-baa8ac1d0652.jpg)
 
 ### 003 - Landing Page (above the fold)
+![003-Landing Page](https://user-images.githubusercontent.com/38872354/79082891-6e26ed80-7cf8-11ea-9b45-a9d260e1b903.jpg)
 
 ### 004 - Calculator
 
