@@ -21,4 +21,5 @@ As an extension of this project, I may potentially do another challenge where I 
 ![003-Landing Page](https://user-images.githubusercontent.com/38872354/79082891-6e26ed80-7cf8-11ea-9b45-a9d260e1b903.jpg)
 
 ### 004 - Calculator
+![004-Calculator](https://user-images.githubusercontent.com/38872354/79182307-7f492a80-7ddc-11ea-997e-47020c3bd75b.jpg)
 
