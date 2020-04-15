@@ -23,3 +23,6 @@ As an extension of this project, I may potentially do another challenge where I 
 ### 004 - Calculator
 ![004-Calculator](https://user-images.githubusercontent.com/38872354/79182307-7f492a80-7ddc-11ea-997e-47020c3bd75b.jpg)
 
+### 005 - App Icon
+![005-AppIcon](https://user-images.githubusercontent.com/38872354/79294983-8daf4900-7ea5-11ea-81a0-4cd2f5eb461f.jpg)
+
