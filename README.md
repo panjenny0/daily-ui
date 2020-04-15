@@ -4,10 +4,10 @@ Welcome! This is a place where I keep track of my progress for the Daily UI Desi
 
 **Scroll down below** for an overview of my design for each prompt. For more details on my process for each design, head over to the [Wiki](https://github.com/panjenny0/DailyUI/wiki) for this repo.
 
-### My reasoning behind doing this
+### But why?
 As someone who has an interest in both design and development, I wanted to further my skills in UI/UX. I also want to keep myself accountable and try to commit to doing something for 100 days. We'll see where this goes!
 
-### Future directions
+### What comes after this?
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
