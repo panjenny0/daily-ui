@@ -28,3 +28,6 @@ As an extension of this project, I may potentially do another challenge where I 
 
 ### 006 - User Profile
 ![006 - User Profile](https://user-images.githubusercontent.com/38872354/79405966-cc0b3d80-7f63-11ea-8b42-fcd88ecdbc78.jpg)
+
+### 007 - Settings
+![007 - Settings](https://user-images.githubusercontent.com/38872354/79519636-6631bb00-8022-11ea-8c82-4423f70467f2.jpg)
