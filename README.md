@@ -46,3 +46,6 @@ As an extension of this project, I may potentially do another challenge where I 
 
 #### 012 - ECommerce
 ![012 - eCommerce (single item)](https://user-images.githubusercontent.com/38872354/79643404-d0587600-8170-11ea-8ef1-40f20747758b.jpg)
+
+#### 013 - Direct Messaging
+![013 - Messaging App](https://user-images.githubusercontent.com/38872354/79816393-2257f200-8351-11ea-9c18-9d89b141601e.jpg)
