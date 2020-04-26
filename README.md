@@ -59,3 +59,6 @@ As an extension of this project, I may potentially do another challenge where I 
 #### 016 - Popup/Overlay
 ![016 - Popup dark](https://user-images.githubusercontent.com/38872354/80293454-87369200-872d-11ea-8b12-23a4ecf81e91.jpg)
 ![016 - Popup light](https://user-images.githubusercontent.com/38872354/80293457-89005580-872d-11ea-88c1-2116bb7d4970.jpg)
+
+#### 017 - Email Receipt
+![017 - Email receipt](https://user-images.githubusercontent.com/38872354/80310596-965b2580-87a9-11ea-85b6-104bc23ae5ac.jpg)
