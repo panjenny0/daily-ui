@@ -62,3 +62,6 @@ As an extension of this project, I may potentially do another challenge where I 
 
 #### 017 - Email Receipt
 ![017 - Email receipt](https://user-images.githubusercontent.com/38872354/80310596-965b2580-87a9-11ea-85b6-104bc23ae5ac.jpg)
+
+#### 018 - Analytics Chart
+![018 - Analytics Chart](https://user-images.githubusercontent.com/38872354/80313506-3cfaf280-87b9-11ea-9381-4fb12360d666.jpg)
