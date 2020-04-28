@@ -65,3 +65,6 @@ As an extension of this project, I may potentially do another challenge where I 
 
 #### 018 - Analytics Chart
 ![018 - Analytics Chart](https://user-images.githubusercontent.com/38872354/80313506-3cfaf280-87b9-11ea-9381-4fb12360d666.jpg)
+
+#### 019 - Leaderboard
+![019 - Leaderboard1](https://user-images.githubusercontent.com/38872354/80439839-76288500-88d5-11ea-811f-9234631604b4.jpg)
