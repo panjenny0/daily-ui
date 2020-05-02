@@ -12,6 +12,9 @@ As an extension of this project, I may potentially do another challenge where I 
 
 ## Entries
 
+#### 022 - Search
+![022 - Search](https://user-images.githubusercontent.com/38872354/80872784-39b4aa80-8c82-11ea-8d04-dfb0bac399ce.jpg)
+
 #### 021 - Home Monitoring Dashboard
 ![021 - Home Monitoring Dashboard](https://user-images.githubusercontent.com/38872354/80855888-1acaff80-8c13-11ea-9138-7a6b53535d7f.jpg)
 
