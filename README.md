@@ -12,6 +12,9 @@ As an extension of this project, I may potentially do another challenge where I 
 
 ## Entries
 
+#### 023 - Onboarding
+![023 - Onboarding](https://user-images.githubusercontent.com/38872354/80919854-37ae2280-8d3a-11ea-8053-b7b4ab46006d.jpg)
+
 #### 022 - Search
 ![022 - Search](https://user-images.githubusercontent.com/38872354/80872784-39b4aa80-8c82-11ea-8d04-dfb0bac399ce.jpg)
 
