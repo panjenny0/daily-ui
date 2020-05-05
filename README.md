@@ -12,6 +12,9 @@ As an extension of this project, I may potentially do another challenge where I 
 
 ## Entries
 
+#### 024 - Boarding Pass
+![024 - Boarding Pass](https://user-images.githubusercontent.com/38872354/81032250-27429880-8e5d-11ea-803a-2dcb6bdf278c.jpg)
+
 #### 023 - Onboarding
 ![023 - Onboarding](https://user-images.githubusercontent.com/38872354/80919854-37ae2280-8d3a-11ea-8053-b7b4ab46006d.jpg)
 
