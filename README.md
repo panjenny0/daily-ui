@@ -12,6 +12,9 @@ As an extension of this project, I may potentially do another challenge where I 
 
 ## Entries
 
+#### 025 - TV App
+![025 - TV App](https://user-images.githubusercontent.com/38872354/81248171-c6949680-8fe9-11ea-8795-261917428777.jpg)
+
 #### 024 - Boarding Pass
 ![024 - Boarding Pass](https://user-images.githubusercontent.com/38872354/81032250-27429880-8e5d-11ea-803a-2dcb6bdf278c.jpg)
 
