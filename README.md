@@ -13,7 +13,7 @@ As an extension of this project, I may potentially do another challenge where I 
 ## Entries
 
 #### 028 - Contact Us
-![028 - Contact Us](https://user-images.githubusercontent.com/38872354/81480294-c3222a80-91f6-11ea-9a4d-15d30b5b2783.jpg)
+![028 - Contact Us](https://user-images.githubusercontent.com/38872354/81480315-fbc20400-91f6-11ea-9657-6812a055ac74.jpg)
 
 #### 027 - Dropdown
 ![027 - Dropdown](https://user-images.githubusercontent.com/38872354/81460914-5b2bff80-9176-11ea-8f2d-e1416165cef8.jpg)
