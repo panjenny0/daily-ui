@@ -12,6 +12,9 @@ As an extension of this project, I may potentially do another challenge where I 
 
 ## Entries
 
+#### 029 - Map
+![029 - Map](https://user-images.githubusercontent.com/38872354/81510423-94cc4a00-92df-11ea-89dd-ca404a0c0372.jpg)
+
 #### 028 - Contact Us
 ![028 - Contact Us](https://user-images.githubusercontent.com/38872354/81480315-fbc20400-91f6-11ea-9657-6812a055ac74.jpg)
 
