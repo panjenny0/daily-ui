@@ -11,6 +11,8 @@ As someone who has an interest in both design and development, I wanted to furth
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
+#### 030 - Pricing
+![030 - Pricing](https://user-images.githubusercontent.com/38872354/81630794-86138f00-93d4-11ea-9b9f-730563ce75aa.jpg)
 
 #### 029 - Map
 ![029 - Map](https://user-images.githubusercontent.com/38872354/81510423-94cc4a00-92df-11ea-89dd-ca404a0c0372.jpg)
