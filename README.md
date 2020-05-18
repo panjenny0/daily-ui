@@ -11,6 +11,9 @@ As someone who has an interest in both design and development, I wanted to furth
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
+#### 032 - Crowdfunding Campaign 
+![032 - Crowdfunding Campaign](https://user-images.githubusercontent.com/38872354/82167181-f4e76100-9888-11ea-8047-1473e1f0bdaf.jpg)
+ 
 #### 031 - File Upload (GitHub clone lol)
 ![031 - File Upload](https://user-images.githubusercontent.com/38872354/81763632-b115e580-949d-11ea-9a60-73a6a39ef21a.jpg)
 
