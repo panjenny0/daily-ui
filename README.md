@@ -11,6 +11,9 @@ As someone who has an interest in both design and development, I wanted to furth
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
+#### 034 - Car Interface
+![034 - Car Interface](https://user-images.githubusercontent.com/38872354/82627246-f4680680-9bb7-11ea-828d-ea67e35618a6.jpg)
+
 #### 033 - Customize Product
 ![033 - Customize Product](https://user-images.githubusercontent.com/38872354/82401643-50038a00-9a28-11ea-9249-add8bed7ac51.jpg)
 
