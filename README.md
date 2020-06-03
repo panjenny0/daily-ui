@@ -11,6 +11,9 @@ As someone who has an interest in both design and development, I wanted to furth
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
+#### 037 - Weather
+![037 - Weather](https://user-images.githubusercontent.com/38872354/83590776-535c4280-a50b-11ea-955a-7f2ca001f322.jpg)
+
 #### 036 - Special Offer
 ![036 - Special Offer](https://user-images.githubusercontent.com/38872354/82850605-0e149100-9ecb-11ea-92e6-9a0a0fe21369.jpg)
 
