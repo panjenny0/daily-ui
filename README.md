@@ -11,6 +11,9 @@ As someone who has an interest in both design and development, I wanted to furth
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
+#### 039 - Testimonials
+![039 - Testimonials](https://user-images.githubusercontent.com/38872354/83979549-0b02a300-a8c4-11ea-9ac3-aa0fc01f2e0c.jpg)
+
 #### 038 - Calendar
 ![037 - Calendar](https://user-images.githubusercontent.com/38872354/83957102-ab4fbd80-a819-11ea-943d-635404c532bd.jpg)
 
