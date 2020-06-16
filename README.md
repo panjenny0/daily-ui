@@ -11,6 +11,9 @@ As someone who has an interest in both design and development, I wanted to furth
 As an extension of this project, I may potentially do another challenge where I implement one of these screens everyday for 100 days. Stay tuned :) 
 
 ## Entries
+#### 040 - Recipe
+![040 - Recipe](https://user-images.githubusercontent.com/38872354/84728811-fc149400-af46-11ea-8828-a513ab866f96.jpg)
+
 #### 039 - Testimonials
 ![039 - Testimonials](https://user-images.githubusercontent.com/38872354/83979549-0b02a300-a8c4-11ea-9ac3-aa0fc01f2e0c.jpg)
 
